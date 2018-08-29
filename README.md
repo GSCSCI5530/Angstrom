@@ -1,2 +1,6 @@
 # Team Members
-blah blah blah
+Chris Robinson
+Stanton Dobson
+Frank MacDonald
+# Project
+POS-Plus
